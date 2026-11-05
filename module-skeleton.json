@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-lead-capture-react-native",
+  "capabilityKey": "liberusoftware/module-crm-lead-capture",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-crm-lead-capture-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/crm/nextjs/lead-capture.md",
+  "presentationPlan": "projects/crm/react-native/lead-capture.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
